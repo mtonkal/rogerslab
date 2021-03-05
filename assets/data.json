@@ -129,5 +129,28 @@
             ],
             "desc": "Comics are an entertaining and familiar medium for presenting compelling stories about data. However, existing visualization authoring tools do not leverage this expressive medium. In this paper, we seek to incorporate elements of comics into the construction of data-driven stories about dynamic networks. We contribute DataToon, a flexible data comic storyboarding tool that blends analysis and presentation with pen and touch interactions. A storyteller can use DataToon rapidly generate visualization panels, annotate them, and position them within a canvas to produce a visually compelling narrative. In a user study, participants quickly learned to use DataToon for producing data comics."
         }
+        {
+            "id":"designforsolutiondievrsity",
+            "title": "Designing for Solution Diversity",
+            "subtitle": "Development and research surrounding of Placemat Instructions",
+            "authors": "Sara Willner-Giwerc, Chris Rogers",
+            "teaser": "assets/DesigningForSolutionDiversity/IMG_2622.jpeg",
+            "tags":["Robotics", "Educational Tool"],
+            "materials": [
+                { 
+                    "label": "Paper",
+                    "path": "assets/DesigningForSolutionDiversity/Placemat Instructions for Open Ended Robotics Challenges.pdf"
+                },
+                { 
+                    "label": "Video",
+                    "path": "assets/roboticsplayground/video.mp4"
+                },
+                { 
+                    "label": "Demo",
+                    "path": "https://youtu.be/kG_w-HTyfB0"
+                }
+            ],
+            "desc": ""
+        }
     ]
 }
