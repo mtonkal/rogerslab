@@ -147,15 +147,15 @@ section{
 
 .project-authors{
     color: #bdbbbb;
-    text-align: center;
+    /* text-align: center; */
 }
 
 .project-subtitle{
-    text-align: center;
+    /* text-align: center; */
 }
 
 .project-tags{
-    text-align: center;
+    /* text-align: center; */
 }
 
 .project-teaser{
