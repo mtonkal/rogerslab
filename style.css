@@ -1,0 +1,235 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    max-width:1024px;
+    width:100%;
+    margin: 0 auto;
+    padding:50px 20px 20px 20px; 
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+    color: #51d294;
+    /* color:#039BE5; */
+    /* color: black; */
+    /* text-decoration-color: #B3E5FC; */
+    /* text-decoration-color: blue; */
+    /* text-decoration: underline; */
+    /* text-decoration-style: dotted; */
+    /* background-color: #B3E5FC; */
+    transition: background-color 0.2s;
+}
+a:hover{
+    text-decoration: none;
+    background-color: #c1f0d9;
+}
+
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    top:0;
+    left:0;
+    width:100%;
+    /* height:2rem;  */
+    background-color: white;    
+    z-index: 1; 
+}
+li a {
+    margin-right:1.5rem;
+    text-decoration: none;
+}
+
+footer{
+    padding: 1rem;
+    /* justify-content: center; */
+    background-color: #51d294;
+    /* width: 100%; */
+    /* bottom:0;
+    left:0; */
+    /* text-align: center; */
+    /* margin: 0px; */
+    color: #ffffff;
+}
+
+.footer-img{
+    width: 100%;
+}
+
+section .title{
+    font-family: 'Poppins', cursive;
+    font-size: 2rem;
+    text-align: center;
+}
+section{
+    margin: 1rem 0 1rem 0;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+#about .col-6:nth-child(1){
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+
+.profile-img{
+    border-radius: 5px;
+    /* width: 800px; */
+    height:300px;
+    object-fit:cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.project-title{
+    font-size: 1.35rem;
+}
+
+#news .row {
+    padding:5px;
+}
+
+#projects .row{
+    margin-bottom: 1.5rem;
+}
+
+.tag{
+    display: inline-block;
+    border-radius: 2px;
+    margin: 5px 5px 5px 0px;
+    padding: 2px 4px 2px 4px;
+    background: #eeeeee;
+}
+.tag:last-child{
+    margin: 5px 0px 5px 0px;
+}
+.robotics{
+    background-color: #FFCDD2;
+    color: #B71C1C;
+}
+.educational{
+    background-color: #C8E6C9;
+    color: #1B5E20;
+}
+.system{
+    background-color: #D1C4E9;
+    color: #311B92;
+}
+.computational{
+    background-color: #B2EBF2;
+    color: #006064;
+}
+.engineering{
+    background-color: #FFE0B2;
+    color: #E65100;
+}
+
+.project-materials{
+    margin: 0.5rem 0 0.5rem 0;
+}
+.project-materials span{
+    margin: 0 0.5rem 0 0 
+}
+
+.project-authors{
+    color: #bdbbbb;
+}
+
+.project-teaser{
+    border-radius: 5px;
+    width: 80%;
+    /* height: 500px; */
+    object-fit:cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.teaser{
+    border-radius: 5px;
+    width: 100%;
+    height: 350px;
+    object-fit:cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+[class*="col-"] {
+    flex-basis: 100%;
+}
+#news [class*="col-"] {
+    margin-top: 5px;
+}
+
+@media only screen and (min-width: 768px) {
+    .col-1 {flex-basis: 8.33%;}
+    .col-2 {flex-basis: 16.66%;}
+    .col-3 {flex-basis: 25%;}
+    .col-4 {flex-basis: 33.33%;}
+    .col-5 {flex-basis: 41.66%;}
+    .col-6 {flex-basis: 50%;}
+    .col-7 {flex-basis: 58.33%;}
+    .col-8 {flex-basis: 66.66%;}
+    .col-9 {flex-basis: 75%;}
+    .col-10 {flex-basis: 83.33%;}
+    .col-11 {flex-basis: 91.66%;}
+    .col-12 {flex-basis: 100%;}
+    
+
+    #news .col-4 {
+        text-align: right;
+    }
+
+}
+
+.search {
+    position: relative;
+}
+.search input {
+    /* box-sizing: border-box; */
+    /* display: block; */
+    width:100%;
+    margin:0.5rem 0 0.5rem 0;
+    font-size: 0.9rem;
+    padding: 0.5rem;
+    border-radius: 1rem;
+    border: 1px solid #eeeeee;
+    /* outline: none; */
+}
+
+.filter{
+    margin: 1rem 0 1rem 0;
+}
+.filter label{
+    padding: .2rem 0.5rem;
+    margin: .2rem;
+}
+/* .chip{
+    display: inline-block;
+    border-radius: 1rem;
+    padding: .2rem 0.5rem;
+    margin: .2rem;
+    background: #eeeeee;
+
+    cursor: pointer;
+}
+.chip.selected{
+    background: #757575;
+    color:#fafafa;
+} 
+*/
