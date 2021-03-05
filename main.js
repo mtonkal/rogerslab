@@ -153,7 +153,6 @@ function renderProjectDetail(d){
     return `
     <section>
         <h1 class="title">${d.title}</h1>
-        <img class="project-teaser" src="${d.teaser}" width="100%">
         <div class="project-subtitle">
             ${d.subtitle}
         </div>
@@ -167,6 +166,8 @@ function renderProjectDetail(d){
                 </span>
             `).join('')}
         </div>
+        <img class="project-teaser" src="${d.teaser}">
+        
         <div class="project-desc">
             <p>
                 ${d.desc}
