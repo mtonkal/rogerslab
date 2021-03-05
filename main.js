@@ -154,11 +154,11 @@ function renderProjectDetail(d){
     <section>
         <h1 class="title">${d.title}</h1>
         <img class="project-teaser" src="${d.teaser}" width="100%">
+        <div class="project-subtitle">
+            ${d.subtitle}
+        </div>
         <div class="project-authors">
             ${d.authors}
-        </div>
-        <div class="project-source">
-            <em>${d.source}</em>
         </div>
         <div class="project-tags">
             ${d.tags.map(tag=>`
