@@ -64,7 +64,8 @@ footer{
 section .title{
     font-family: 'Poppins', cursive;
     font-size: 2rem;
-    text-align: center;
+    text-align: left;
+    margin-bottom: 5px;
 }
 section{
     margin: 1rem 0 1rem 0;
@@ -168,19 +169,19 @@ section{
     margin-right: auto;
     margin-top: 20px;
     margin-bottom: 20px;
+    border: 0.5px solid rgb(233, 231, 231);
 }
 
 .teaser{
     border-radius: 5px;
-    width: 100%;
+    width: 90%;
     height: 350px;
     object-fit:cover;
     display: block;
     /* margin-left: auto;
     margin-right: auto;
-    margin-top: 10px;
-    margin-bottom: 10px; */
-    margin: 0px 10px 0px 10px;
+    /* margin: 0px 20px 0px 20px; */
+    margin: 0px 5% ;
     border: 0.5px solid rgb(233, 231, 231);
 }
 
