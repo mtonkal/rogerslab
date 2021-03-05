@@ -60,6 +60,29 @@
             ],
             "desc": "Robotics Playground is an experimental library of placemat instructions for robotics activities. Developed by researchers at the Tufts University CEEO, this library is designed to maximize solution diversity and foster student-driven learning."
         },
+         {
+            "id":"milan",
+            "title": "Robotics Playground",
+            "subtitle": "Experimental library of placemat instructions for open-ended robotics challenges",
+            "authors": "Sara Willner-Giwerc, Chris Rogers",
+            "teaser": "assets/roboticsplayground/teaser.png",
+            "tags":["Robotics", "Educational Tool"],
+            "materials": [
+                { 
+                    "label": "Paper",
+                    "path": "assets/roboticsplayground/paper.pdf"
+                },
+                { 
+                    "label": "Video",
+                    "path": "assets/roboticsplayground/video.mp4"
+                },
+                { 
+                    "label": "Demo",
+                    "path": "https://ceeoinnovations.github.io/RoboticsPlayground/index.html"
+                }
+            ],
+            "desc": "Robotics Playground is an experimental library of placemat instructions for robotics activities. Developed by researchers at the Tufts University CEEO, this library is designed to maximize solution diversity and foster student-driven learning."
+        }
         {
             "id":"snapr",
             "title": "SNAPR: Snap, Narrate, Auto post and Refelect",
