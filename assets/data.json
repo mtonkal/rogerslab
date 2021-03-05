@@ -1,13 +1,13 @@
 {   
     "about":{
-        "name":"CEEO INNOVATION",
+        "name":"Rogers Lab",
         "photo":"assets/profile.png",
-        "desc":"An online portal for sharing research and development projects, tools, and technologies being created at Tufts Center for Engineering Education and Outreach"
+        "desc":"Sharing research and development projects, tools, and technologies being created at Rogers Lab"
     },
     "footer":{
-        "logo":"assets/CI-logo.png",
+        "logo":"",
         "ceeologo":"assets/CEEO-logo.png",
-        "about":"",
+        "about":"Rogers Lab, Tufts University",
         "links":""
     },
     "news":[
@@ -40,8 +40,8 @@
         {
             "id":"roboticsplayground",
             "title": "Robotics Playground",
-            "authors": "Experimental library of placemat instructions for open-ended robotics challenges",
-            "source": "Sara Willner-Giwerc, Chris Rogers",
+            "subtitle": "Experimental library of placemat instructions for open-ended robotics challenges",
+            "authors": "Sara Willner-Giwerc, Chris Rogers",
             "teaser": "assets/roboticsplayground/teaser.png",
             "tags":["Robotics", "Educational Tool"],
             "materials": [
@@ -63,8 +63,8 @@
         {
             "id":"snapr",
             "title": "SNAPR: Snap, Narrate, Auto post and Refelect",
-            "authors": "Automatic e-portfolio generator",
-            "source": "Dipeshwor Man Shrestha, Chris Rogers",
+            "subtitle": "Automatic e-portfolio generator",
+            "authors": "Dipeshwor Man Shrestha, Chris Rogers",
             "teaser": "assets/snapr/teaser.png",
             "tags":["Engineering", "System"],
             "materials": [
@@ -86,8 +86,8 @@
         {
             "id":"draw2code",
             "title": "Draw2Code",
-            "authors": "Low-cost and expressive tangible computational kit",
-            "source": "Hyejin Im, Chris Rogers",
+            "subtitle": "Low-cost and expressive tangible computational kit",
+            "authors": "Hyejin Im, Chris Rogers",
             "teaser": "assets/draw2code/teaser.png",
             "tags":["Computational Thinking", "System"],
             "materials": [

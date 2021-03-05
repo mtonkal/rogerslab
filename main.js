@@ -190,10 +190,10 @@ function renderFooter(footer){
     <footer>
         <div class="row">
             <div class="col-4">
-                <img class="footer-img" src="${footer.logo}"/>
+                
                 <img class="footer-img" src="${footer.ceeologo}"/>
             </div>
-            <div class="col-8">
+            <div class="col-6">
                 <p>
                 ${footer.about}
                 </p>
