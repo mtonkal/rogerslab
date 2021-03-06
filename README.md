@@ -5,6 +5,7 @@
 ## Get Started
 
 ### How to Update Content
+Need to be updated.
 
 ## Acknowledgement
 This website is built and managed by Hyejin Im and Milan Dahal.
