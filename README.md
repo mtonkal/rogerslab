@@ -1,6 +1,6 @@
 ## Link
 
-[Rogers Lab] (https://github.com/hyejinim/rogerslab)
+[Rogers Lab](https://github.com/hyejinim/rogerslab)
 
 ### Get Started
 
