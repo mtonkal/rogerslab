@@ -6,7 +6,7 @@
 
 ### How to Update Content
 
-### Acknowledgement
+## Acknowledgement
 This website is built and managed by Hyejin Im and Milan Dahal.
 
 Thanks to Nam Wook Kim for the original website templates.
