@@ -1,4 +1,10 @@
 
+
+fetch('https://docs.google.com/spreadsheets/d/e/2PACX-1vQka0KPDQVSEPrSg9So_KLygCMEzDKTY0zNPJJiK2zqQbN4ykQeNFkOl85DAs9l-xi3r0hMz9_qa1Ix/pub?gid=0&single=true&output=csv')
+.then(resp=>resp.text())
+.then(text=>{
+    console.log(d3.csvParse(text));
+})
 fetch('assets/data.json')
 .then(resp=>resp.json())
 .then(d=>{
@@ -152,14 +158,14 @@ function renderProjectPage(project){
 function renderProjectDetail(d){
     return `
     <section>
-        <h1 class="title">${d.title}</h1>
-        <div class="project-subtitle">
+        <h1 class="title" style="margin-bottom: 5px;">${d.title}</h1>
+        <div class="project-subtitle" style="text-align: center;">
             ${d.subtitle}
         </div>
-        <div class="project-authors">
+        <div class="project-authors" style="text-align: center;">
             ${d.authors}
         </div>
-        <div class="project-tags">
+        <div class="project-tags" style="text-align: center;">
             ${d.tags.map(tag=>`
                 <span class="tag ${tag.toLowerCase()}">
                     ${tag}
