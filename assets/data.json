@@ -143,11 +143,11 @@
                 },
                 { 
                     "label": "Video",
-                    "path": "assets/roboticsplayground/video.mp4"
+                    "path": "https://youtu.be/kG_w-HTyfB0"
                 },
                 { 
                     "label": "Demo",
-                    "path": "https://youtu.be/kG_w-HTyfB0"
+                    "path": "https://ceeoinnovations.github.io/RoboticsPlayground/index.html"
                 }
             ],
             "desc": ""
