@@ -194,6 +194,22 @@
                 }
             ],
             "desc": "An integrated educational learning development web-based environment intended for learning and teaching through robotics. CORP combines the potential of the Google web-based platform with the educational robot technology of the LEGO Mindstorms EV3 Kit. Designed for students in primary and high school, CORP allows students from different locations to interact collaboratively through sharing a Google Slide document with a custom add-on developed to talk to the EV3 robot."
+        },
+        {
+            "id": "alisonstest",
+            "title": "Alison's Test",
+            "subtitle": "Just checkin' this out for the Friday meeting.",
+            "authors": "Alison Earnhart, Jeffrey Lebowski",
+            "teaser": "assets/alisonstest/teaser.png",
+            "tags":["Engineering"],
+            "materials": [
+                { 
+                    "label": "Video",
+                    "path": "assets/alisonstest/video.mp4"
+                }
+
+            ],
+            "desc": "This is just a test to see how easy it is to change the website. Thanks for the video tutorial, Hyejin!"
         }
     ]
 }
