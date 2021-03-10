@@ -5,8 +5,7 @@
 ## Get Started
 
 ### How to Update Content
-1. Add your project information to data.json 
-Copy and paste the code below at the end of project items
+1. Add your project information to data.json. Copy and paste the code below at the end of project items. 
 ```javascript
         ,
         {
@@ -30,7 +29,7 @@ Copy and paste the code below at the end of project items
                     "path": "https://hyejinim.github.io/draw2code"
                 }
             ],
-            "desc": "An integrated educational learning development web-based environment intended for learning and teaching through robotics. CORP combines the potential of the Google web-based platform with the educational robot technology of the LEGO Mindstorms EV3 Kit. Designed for students in primary and high school, CORP allows students from different locations to interact collaboratively through sharing a Google Slide document with a custom add-on developed to talk to the EV3 robot."
+            "desc": "Describe why you worked on this project and what this project is."
         }
 ```
 * Create a unique project ID for `id`. It will be used for the filename to create a project detail page.
