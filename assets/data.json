@@ -157,7 +157,7 @@
             "title": "What is the ceiling of SPIKE Prime?",
             "subtitle": "SPIKE Prime goes to college",
             "authors": "Jeremy, Eric, Owen, many students, and Chris",
-            "teaser": "assets/DesigningForSolutionDiversity/IMG_2622.jpeg",
+            "teaser": "assets/ME35/Clrinkle.png",
             "tags":["Robotics", "Educational Tool"],
             "materials": [
                 { 
@@ -170,7 +170,7 @@
                 },
                 { 
                     "label": "Demo",
-                    "path": "https://youtu.be/kG_w-HTyfB0"
+                    "path": ""
                 }
             ],
             "desc": ""
