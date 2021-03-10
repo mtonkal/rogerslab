@@ -5,11 +5,11 @@
 ## Get Started
 
 ### How to Update Content
-1. Add your project information to `data.json`. Copy and paste the code below at the end of project items. 
+1. Add your project information to `assets/data.json`. Copy and paste the code below at the end of project items. 
 ```javascript
         ,
         {
-            "id": "projectid",
+            "id": "project-id",
             "title": "Project Title",
             "subtitle": "Briefly explain what this project is",
             "authors": "First Last, First Last",
@@ -18,11 +18,11 @@
             "materials": [
                 { 
                     "label": "Paper",
-                    "path": "assets/projectid/paper.pdf"
+                    "path": "assets/project-id/paper.pdf"
                 },
                 { 
                     "label": "Video",
-                    "path": "assets/projectid/video.mp4""
+                    "path": "assets/project-id/video.mp4""
                 },
                 { 
                     "label": "Demo",
@@ -39,12 +39,23 @@
   * A hyphen is OK for a word separator
 * Choose 2 tags among below that represent your project
   * `Robotics, Engineering, Computatioanl Thinking, System, Educational Tool`
-2. Add a folder that includes all the materials for the project
+* If you don't have materials, delete the relevant code from the materials data. For example, if you have only a paper, the code would be like below.
+```javascript
+"materials": [
+                { 
+                    "label": "Paper",
+                    "path": "assets/project-id/paper.pdf"
+                }
+            ],
+```
+2. Add your project folder that inlcudes all the materials to the assets folder
+* Create your project folder in your local computer, add files to the folder, and then go to the assets folder on Github to upload the folder
 * Use the project ID for the folder name
 * Use the name below for file names
   * `teaser.png`: A teaser image is necessary for each project
   * `paper.pdf`: Add if you have a relevant paper
   * `video.mp4`: Add if you have a relevant video
+ 
 
 ## Acknowledgement
 This website is built and managed by Hyejin Im and Milan Dahal.
