@@ -5,8 +5,10 @@
 ## Get Started
 
 ### How to Update Content
-1. Add your project information to data.json
+1. Add your project information to data.json 
+Copy and paste the code below at the end of project items
 ```javascript
+        ,
         {
             "id": "projectid",
             "title": "Project Title",
