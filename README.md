@@ -5,9 +5,9 @@
 ## Get Started
 
 ### How to Update Content
-1. Add your project information to `assets/data.json`. 
-[![Tutorial video](https://img.youtube.com/vi/VIDEO-ID/0.jpg)](https://youtu.be/9VoZC-oCWoo)
-Copy and paste the code below at the end of project items. 
+1. Add your project information to `assets/data.json`. Copy and paste the code below at the end of project items. 
+* [Watch video](https://youtu.be/9VoZC-oCWoo)
+
 ```javascript
         ,
         {
