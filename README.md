@@ -39,6 +39,17 @@
   * A hyphen is OK for a word separator
 * Choose 2 tags among below that represent your project
   * `Robotics, Engineering, Computatioanl Thinking, System, Educational Tool`
+* If you don't have materials, delete the relevant code from the materials data. For example, if you have only a paper, the code would be like below.
+```javascript
+"materials": [
+                { 
+                    "label": "Paper",
+                    "path": "assets/project-id/paper.pdf"
+                }
+            ],
+            "desc": "Describe why you worked on this project and what this project is."
+        }
+```
 2. Add a folder that includes all the materials for the project
 * Use the project ID for the folder name
 * Use the name below for file names
