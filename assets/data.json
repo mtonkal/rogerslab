@@ -174,8 +174,8 @@
         },
         {
             "id":"Corp",
-            "title": "Collaborative Online Robotics Platform",
-            "subtitle": "",
+            "title": "CORP",
+            "subtitle": "A Collaborative Online Robotics Platform",
             "authors": "Olga Sans-Cope, Chris Rogers",
             "teaser": "assets/Corp/teaser.png",
             "tags":["Remote Learning", "STEM education", "Web-based robotics", "computer supported cooperative work (CSCW)"],
