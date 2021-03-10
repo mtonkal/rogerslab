@@ -49,7 +49,7 @@
             ],
 ```
 2. Add your project folder that inlcudes all the materials to the assets folder
-* Create your project folder in your local computer, add files to the folder, and then upload the folder to the assets folder on Github
+* Create your project folder in your local computer, add files to the folder, and then go to the assets folder on Github to upload the folder
 * Use the project ID for the folder name
 * Use the name below for file names
   * `teaser.png`: A teaser image is necessary for each project
