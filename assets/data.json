@@ -62,26 +62,26 @@
         },
         {
             "id":"milan",
-            "title": "Robotics Playground",
-            "subtitle": "Experimental library of placemat instructions for open-ended robotics challenges",
-            "authors": "Sara Willner-Giwerc, Chris Rogers",
-            "teaser": "assets/roboticsplayground/teaser.png",
+            "title": "Building Smart Motors",
+            "subtitle": "story of how we changed the world with a $20 product",
+            "authors": "Milan Dahal",
+            "teaser": "assets/smartmotor/teaser.png",
             "tags":["Robotics", "Educational Tool"],
             "materials": [
                 { 
                     "label": "Paper",
-                    "path": "assets/roboticsplayground/paper.pdf"
+                    "path": "assets/smartmotor/paper.pdf"
                 },
                 { 
                     "label": "Video",
-                    "path": "assets/roboticsplayground/video.mp4"
+                    "path": "assets/smartmotor/video.mp4"
                 },
                 { 
                     "label": "Demo",
-                    "path": "https://ceeoinnovations.github.io/RoboticsPlayground/index.html"
+                    "path": "https://drive.google.com/file/d/1WL9SGC6kO6TVh86_VKmjrg1hpXbgyTMZ/view?usp=sharing"
                 }
             ],
-            "desc": "Robotics Playground is an experimental library of placemat instructions for robotics activities. Developed by researchers at the Tufts University CEEO, this library is designed to maximize solution diversity and foster student-driven learning."
+            "desc": "This amazing piece of tech will revolutionize the way you program robots. Imagine a world where you can program a robot the way you train your dog, or your kid, maybe just your dog. <br> <br> The way you program this robot is by teaching what action follows what reaction.. for example, you can teach your motor to go to 60 degrees when you push a button, and turn to 120 degrees when you hold it for  more than 1 second. This works by training the motor. That is how you would code it!!! Done ! "
         },
         {
             "id":"snapr",
