@@ -47,8 +47,6 @@
                     "path": "assets/project-id/paper.pdf"
                 }
             ],
-            "desc": "Describe why you worked on this project and what this project is."
-        }
 ```
 2. Add a folder that includes all the materials for the project
 * Use the project ID for the folder name
