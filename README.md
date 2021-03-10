@@ -10,7 +10,7 @@
   * Make it concise and meaningful
   * Use all lowercase
   * Don't use spaces in the project ID
-  * A hyphen is OK for a word separator. 
+  * A hyphen is OK for a word separator
 * Choose 2 tags among below that represent your project. If you want to add a new tag, think about it can be applied for other projects as well.
   * `Robotics, Engineering, Computatioanl Thinking, System, Educational Tool`
 2. Add a folder that includes all the materials for the project
