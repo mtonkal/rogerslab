@@ -7,7 +7,7 @@
 ### How to Update Content
 1. Add your project information to data.json
 * Create a unique project ID. It will be used for the filename to create a project detail page.
-  *Make it concise and meaningful
+  * Make it concise and meaningful
 **Use all lowercase
 **Don't use spaces in the project ID
 **A hyphen is OK for a word separator. 
