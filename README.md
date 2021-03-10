@@ -9,7 +9,7 @@
 ```javascript
         ,
         {
-            "id": "projectid",
+            "id": "project-id",
             "title": "Project Title",
             "subtitle": "Briefly explain what this project is",
             "authors": "First Last, First Last",
@@ -18,11 +18,11 @@
             "materials": [
                 { 
                     "label": "Paper",
-                    "path": "assets/projectid/paper.pdf"
+                    "path": "assets/project-id/paper.pdf"
                 },
                 { 
                     "label": "Video",
-                    "path": "assets/projectid/video.mp4""
+                    "path": "assets/project-id/video.mp4""
                 },
                 { 
                     "label": "Demo",
