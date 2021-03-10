@@ -72,10 +72,7 @@
                     "label": "Paper",
                     "path": "assets/smartmotor/paper.pdf"
                 },
-                { 
-                    "label": "Video",
-                    "path": "assets/smartmotor/video.mp4"
-                },
+                
                 { 
                     "label": "Demo",
                     "path": "https://drive.google.com/file/d/1WL9SGC6kO6TVh86_VKmjrg1hpXbgyTMZ/view?usp=sharing"
