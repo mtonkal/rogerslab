@@ -25,7 +25,7 @@
                     "path": "assets/projectid/video.mp4""
                 },
                 { 
-                    "label": "Website",
+                    "label": "Demo",
                     "path": "https://hyejinim.github.io/draw2code"
                 }
             ],
@@ -39,8 +39,7 @@
   * A hyphen is OK for a word separator
 * Choose 2 tags among below that represent your project
   * `Robotics, Engineering, Computatioanl Thinking, System, Educational Tool`
-* Update path for materials
-3. Add a folder that includes all the materials for the project
+2. Add a folder that includes all the materials for the project
 * Use the project ID for the folder name
 * Use the name below for file names
   * `teaser.png`: A teaser image is necessary for each project
