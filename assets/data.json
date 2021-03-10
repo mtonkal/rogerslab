@@ -194,6 +194,29 @@
                 }
             ],
             "desc": "An integrated educational learning development web-based environment intended for learning and teaching through robotics. CORP combines the potential of the Google web-based platform with the educational robot technology of the LEGO Mindstorms EV3 Kit. Designed for students in primary and high school, CORP allows students from different locations to interact collaboratively through sharing a Google Slide document with a custom add-on developed to talk to the EV3 robot."
+        },
+        {
+            "id": "project-id",
+            "title": "Project Title",
+            "subtitle": "Briefly explain what this project is",
+            "authors": "First Last, First Last",
+            "teaser": "assets/project-id/teaser.png",
+            "tags":["Engineering", "System"],
+            "materials": [
+                { 
+                    "label": "Paper",
+                    "path": "assets/project-id/paper.pdf"
+                },
+                { 
+                    "label": "Video",
+                    "path": "assets/project-id/video.mp4""
+                },
+                { 
+                    "label": "Demo",
+                    "path": "https://hyejinim.github.io/draw2code"
+                }
+            ],
+            "desc": "Describe why you worked on this project and what this project is."
         }
     ]
 }
