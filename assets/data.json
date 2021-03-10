@@ -1,12 +1,12 @@
 {   
     "about":{
         "name":"Rogers Lab",
-        "photo":"assets/profile.png",
+        "photo":"assets/rogerslab/profile.png",
         "desc":"Sharing research and development projects, tools, and technologies being created in Rogers Lab at Tufts University"
     },
     "footer":{
         "logo":"",
-        "ceeologo":"assets/CEEO-logo.png",
+        "ceeologo":"assets/rogerslab/CEEO-logo.png",
         "about":"Rogers Lab, Tufts University",
         "links":""
     },
