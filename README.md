@@ -48,13 +48,14 @@
                 }
             ],
 ```
-2. Add a folder that includes all the materials for the project
-* Create a folder in your local computer, add files to the folder, and then upload the folder to the assets on Github
+2. Add your project folder that inlcudes all the materials to the assets folder
+* Create your project folder in your local computer, add files to the folder, and then upload the folder to the assets folder on Github
 * Use the project ID for the folder name
 * Use the name below for file names
   * `teaser.png`: A teaser image is necessary for each project
   * `paper.pdf`: Add if you have a relevant paper
   * `video.mp4`: Add if you have a relevant video
+ 
 
 ## Acknowledgement
 This website is built and managed by Hyejin Im and Milan Dahal.
