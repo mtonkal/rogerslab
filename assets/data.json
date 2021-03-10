@@ -171,7 +171,29 @@
                 }
             ],
             "desc": ""
+        },
+        {
+            "id":"Corp",
+            "title": "Collaborative Online Robotics Platform",
+            "subtitle": "",
+            "authors": "Olga Sans-Cope",
+            "teaser": "assets/Corp/Platform.jpeg",
+            "tags":["Remote Learning", "STEM education", "Web-based robotics", "computer supported cooperative work (CSCW)"],
+            "materials": [
+                { 
+                    "label": "Paper",
+                    "path": ""
+                },
+                { 
+                    "label": "Video",
+                    "path": "https://drive.google.com/file/d/1s6qXG1YQnE-09eg5E9OUwKEAGdfKF7AV/view?usp=sharing"
+                },
+                { 
+                    "label": "Demo",
+                    "path": ""
+                }
+            ],
+            "desc": "An integrated educational learning development web-based environment intended for learning and teaching through robotics. CORP combines the potential of the Google web-based platform with the educational robot technology of the LEGO Mindstorms EV3 Kit. Designed for students in primary and high school, CORP allows students from different locations to interact collaboratively through sharing a Google Slide document with a custom add-on developed to talk to the EV3 robot."
         }
-
     ]
 }
