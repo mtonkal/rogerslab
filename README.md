@@ -13,7 +13,7 @@
             "title": "Project Title",
             "subtitle": "Briefly explain what this project is",
             "authors": "First Last, First Last",
-            "teaser": "assets/projectid/teaser.png",
+            "teaser": "assets/project-id/teaser.png",
             "tags":["Engineering", "System"],
             "materials": [
                 { 
@@ -22,7 +22,7 @@
                 },
                 { 
                     "label": "Video",
-                    "path": "assets/project-id/video.mp4""
+                    "path": "assets/project-id/video.mp4"
                 },
                 { 
                     "label": "Demo",
