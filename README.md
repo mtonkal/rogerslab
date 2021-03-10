@@ -33,7 +33,7 @@
             "desc": "Describe why you worked on this project and what this project is."
         }
 ```
-* Create a unique project ID for `id`. It will be used for the filename to create a project detail page.
+* Create a unique project ID for `id`. It will be used to create a project detail page.
   * Make it concise and meaningful
   * Use all lowercase
   * Don't use spaces in the project ID
