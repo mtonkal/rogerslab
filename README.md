@@ -5,7 +5,7 @@
 ## Get Started
 
 ### How to Update Content
-1. Add your project information to `data.json`. Copy and paste the code below at the end of project items. 
+1. Add your project information to `assets/data.json`. Copy and paste the code below at the end of project items. 
 ```javascript
         ,
         {
