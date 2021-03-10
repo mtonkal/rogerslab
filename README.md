@@ -16,9 +16,9 @@
 2. Add a folder that includes all the materials for the project
 * Use the project ID for the folder name
 * Use the name below for file names
-  * teaser.png
-  * paper.pdf
-  * video.mp4
+  * `teaser.png`: A teaser image is necessary for each project
+  * `paper.pdf`: Add if you have a relevant paper
+  * `video.mp4`: Add if you have a relevant video
 
 ## Acknowledgement
 This website is built and managed by Hyejin Im and Milan Dahal.
