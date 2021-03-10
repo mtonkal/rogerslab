@@ -50,7 +50,7 @@
             ],
 ```
 * Make sure there is no syntax error
-* Go to the website to see the updates after you make changes. It can take up to 20 minutes for changes to the site to publish after you push the changes to gitHub.
+* Go to the [website](https://hyejinim.github.io/rogerslab) to see the updates after you make changes. It can take up to 20 minutes for changes to the site to publish after you push the changes to gitHub.
 2. Add your project folder that inlcudes all the materials to the assets folder. [Video tutorial](https://youtu.be/R6r7yIguZcE)
 * Create your project folder in your local computer, add files to the folder, and then go to the `assets` on Github to upload the folder
 * Use the project ID for the folder name
