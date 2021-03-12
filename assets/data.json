@@ -259,5 +259,21 @@
             ],
             "desc": "We introduced a tool that allowed students to create a stop motion animation which they posted on Padlet."
         }
+         ,
+        {
+            "id": "design_and_solve",
+            "title": "Design and Solve Brookly 99 Riddle",
+            "subtitle": "Design a riddle with a fixed seesaw by using force sensor",
+            "authors": "Mohammed Tonkal",
+            "teaser": "assets/design_and_solve/Cover.jpg",
+            "tags":["Computatioanl Thinking", "System"],
+            "materials": [
+                { 
+                    "label": "Instructions",
+                    "path": "assets/design_and_solve/Instructions.pdf"
+                }
+            ],
+            "desc": "This project is intended to teach student how to build an experement using sensors and adding logic operations in their codes"
+        }
     ]
 }
