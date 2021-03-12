@@ -245,15 +245,15 @@
             "tags":["Animation", "Storytelling"],
             "materials": [
                 { 
-                    "label": "LEGO pets",
+                    "label": "Video",
                     "path": "stop_motion_animation/Soisa.mp4"
                 },
                 { 
-                    "label": "welcome",
+                    "label": "Video",
                     "path": "stop_motion_animation/Dirghayu_.gif"
                 },
                 { 
-                    "label": "Padlet link ",
+                    "label": "Demo",
                     "path": "https://padlet.com/TinkeringStudio/stopmotionkarkhana"
                 }
             ],
