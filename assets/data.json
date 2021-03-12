@@ -238,10 +238,10 @@
         ,
         {
             "id": "stop_motion_animation",
-            "title": "Making with Sticky notes",
+            "title": "Storytelling using stop motion animation",
             "subtitle": "Some example projects that students in Nepal made using a mobile app",
             "authors": "Dipeshwor Shrestha",
-            "teaser": "assets/stop_motion_animation/animation1.png",
+            "teaser": "assets/stop_motion_animation/dirghayu_clock_stop motion project.gif",
             "tags":["Animation", "Storytelling"],
             "materials": [
                 { 
